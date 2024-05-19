@@ -5,6 +5,8 @@ import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 import About from "../About/About";
+import Projects from "../Projects/Projects";
+import laptopImg from "../../Assets/about.png";
 
 function Home() {
   return (
@@ -22,8 +24,7 @@ function Home() {
               </h1>
 
               <h1 className="heading-name">
-                I'M
-                <strong className="main-name"> AMAN SINGH BAIS</strong>
+                I'M <strong className="main-name"> AMAN SINGH BAIS</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
@@ -32,18 +33,15 @@ function Home() {
             </Col>
 
             <Col md={5} style={{ paddingBottom: 20 }}>
-              <img
-                src={homeLogo}
-                alt="home pic"
-                className="img-fluid"
-                style={{ maxHeight: "450px" }}
-              />
+              <img src={laptopImg} alt="home pic" className="img-fluid" style={{ maxHeight: "500px" }} />
             </Col>
           </Row>
         </Container>
       </Container>
       <Home2 />
+
       <About />
+      <Projects />
     </section>
   );
 }
