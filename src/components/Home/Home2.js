@@ -17,14 +17,14 @@ function Home2() {
           LET ME <span className="purple"> INTRODUCE </span> MYSELF
         </h1>
         <p className="home-about-body">
-          I am a <i><b className="purple">Software Developer @Hotwax Commerce</b></i>, Graduated from <i><b className="purple">IET-DAVV, Indore</b></i>, currently working on OMS product suite web-apps built over VueJs, Vuex/Pinia, Ionic.
+          I am a <i><b className="purple">Software Developer @Hotwax Systems</b></i>, Graduated from <i><b className="purple">IET-DAVV, Indore</b></i>, currently developing and maintaining the OMS product suite.
           <br />
           <br />
-          My expertise spans an extensive toolkit encompassing <i><b className="purple">VueJs, ReactJs, JavaScript, TypeScript</b></i> alongside <i><b className="purple">NodeJs, ExpressJs, MongoDB</b></i> broadening my capability across the entire development spectrum. Additionally, I've extended my proficiency to <i><b className="purple">Java</b></i> and <i><b className="purple">C++</b></i>.
+          My love for web development is fueled by the thrill of turning ideas into dynamic and engaging digital experiences.
           <br />
           <br />
-          My skill set is characterized by robust problem-solving abilities and a keen analytical mindset, allowing me to adeptly identify and resolve intricate issues with efficiency.
-        </p>
+          I also consistently post JS and web dev related content on my <a href="https://www.linkedin.com/in/amansinghbais" target="_blank" style={{ color: 'cyan' }}>LinkedIn</a> .
+          </p>
       </Container>
     </Container>
   );
