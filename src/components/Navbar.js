@@ -22,10 +22,6 @@ function NavBar() {
   return (
     <Navbar expanded={true} fixed="top" expand="md" className={navColour ? "sticky" : "navbar"}>
       <Container fluid>
-        <Navbar.Brand href="/" className="d-flex">
-          <h2 className="main-name">Asb.</h2>
-        </Navbar.Brand>
-
         <Nav className="ms-auto" defaultActiveKey="#home">
           <Button variant="primary" href={pdf} target="_blank" style={{ marginTop: "10px" }}>
             <AiOutlineDownload />
