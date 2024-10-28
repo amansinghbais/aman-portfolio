@@ -17,7 +17,7 @@ function Home2() {
           LET ME <span className="purple"> INTRODUCE </span> MYSELF
         </h1>
         <p className="home-about-body">
-          I am a <i><b className="purple">Software Developer @Hotwax Systems</b></i>, Graduated from <i><b className="purple">IET-DAVV, Indore</b></i>, currently developing and maintaining the OMS product suite.
+          I am a <i><b className="purple">Software Developer @Hotwax Commerce</b></i>, Graduated from <i><b className="purple">IET-DAVV, Indore</b></i>, currently developing and maintaining the OMS product suite.
           <br />
           <br />
           My love for web development is fueled by the thrill of turning ideas into dynamic and engaging digital experiences.
